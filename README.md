@@ -1,2 +1,2 @@
-# Numpy_demo
+# Numpy_Demo
 Practice of Numpy
